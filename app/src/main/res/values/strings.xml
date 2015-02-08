@@ -4,5 +4,8 @@
     <string name="app_name">ProgrammingQuiz</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="com.facebook.sdk.ApplicationId">1383324741980577</string>
+    <string name="facebook_app_id">1383324741980577</string>
+    <string name="title_activity_home">HomeActivity</string>
 
 </resources>
