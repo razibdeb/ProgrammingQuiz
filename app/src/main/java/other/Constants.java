@@ -17,7 +17,19 @@ public class Constants {
     public static final String USER_FACEBOOK_ID = "facebook_id";
     public static final String USER_GENDER = "gender";
     public static final String USER_BIRTHDAY = "birthday";
-
+    public static final String USER_NAME = "name";
+    public static final String USER_NICK_NAME = "nickname";
+    public static final String USER_EMAIL = "email";
     public static final String TAG = "razib";
+
+    //Question
+    public static final String QUESTION_TEXT = "question";
+    public static final String QUESTION_TYPE = "QuestionType";
+    public static final String QUESTION_OWNER = "owner";
+    public static final String QUESTION_OPTIONS = "choices";
+    public static final String QUESTION_ANSWER_INDEX = "answer";
+    public static final String QUESTION_REMARK = "remark";
+    public static final String QUESTION_TOPIC = "topic";
+    public static final String QUESTION_LANGUAGE = "language";
 
 }

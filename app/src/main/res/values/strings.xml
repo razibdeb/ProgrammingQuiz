@@ -7,5 +7,6 @@
     <string name="com.facebook.sdk.ApplicationId">1383324741980577</string>
     <string name="facebook_app_id">1383324741980577</string>
     <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
 
 </resources>
